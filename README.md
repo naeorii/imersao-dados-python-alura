@@ -50,3 +50,7 @@ Gráficos Interativos
 
 Tabela de Dados Detalhados
   Exibe os dados filtrados em forma de tabela para análise detalhada.
+
+  ## Interface
+  <img width="1898" height="963" alt="image" src="https://github.com/user-attachments/assets/4f4b579d-5ff2-4de0-a322-9150140b7e7e" />
+
